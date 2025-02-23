@@ -7,15 +7,15 @@ It provides user authentication, CRUD operations, and secure API endpoints.
 The API follows MVC architecture and includes rate limiting, logging, and error handling.
 ---
 # Technologies Used
-Node.js - Backend Runtime
-Hapi.js - API Framework
-MongoDB - Database
-Mongoose - MongoDB ODM
-JWT - Authentication
-Joi - Input Validation
-Boom - Error Handling
-Winston - Logging
-Docker - Containerization
+Node.js - Backend Runtime,
+Hapi.js - API Framework,
+MongoDB - Database,
+Mongoose - MongoDB ODM,
+JWT - Authentication,
+Joi - Input Validation,
+Boom - Error Handling,
+Winston - Logging,
+Docker - Containerization,
 ---
 # Installation & Setup
 1.Clone the Repository
