@@ -1,0 +1,125 @@
+2025-02-22T17:05:24.258Z [INFO]: Registration Attempt: test2@gmail.com
+2025-02-22T17:05:24.586Z [INFO]: Registration Successful: test2@gmail.com
+2025-02-22T17:05:43.159Z [INFO]: Login Attempt for Email: test2@gmail.com
+2025-02-22T17:05:43.448Z [INFO]: Successful Login: test2@gmail.com
+2025-02-22T17:06:06.016Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmEwM2Q0MzYzMWJiZjMzYTZmMGVkNiIsIm5hbWUiOiJ0ZXN0MiIsImVtYWlsIjoidGVzdDJAZ21haWwuY29tIiwiaWF0IjoxNzQwMjQzOTQzLCJleHAiOjE3NDAyNDc1NDN9.9QGJzemCeuZ_OJc8N9a_uVsbMo_wHSEMu5Pq4G8DXIQ
+2025-02-22T17:06:06.018Z [INFO]: Decoded Token: {"id":"67ba03d43631bbf33a6f0ed6","name":"test2","email":"test2@gmail.com","iat":1740243943,"exp":1740247543}
+2025-02-22T17:06:06.022Z [INFO]: User Authenticated: test2@gmail.com
+2025-02-22T17:06:06.026Z [INFO]: User Found.
+2025-02-22T17:06:18.143Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmEwM2Q0MzYzMWJiZjMzYTZmMGVkNiIsIm5hbWUiOiJ0ZXN0MiIsImVtYWlsIjoidGVzdDJAZ21haWwuY29tIiwiaWF0IjoxNzQwMjQzOTQzLCJleHAiOjE3NDAyNDc1NDN9.9QGJzemCeuZ_OJc8N9a_uVsbMo_wHSEMu5Pq4G8DXIQ
+2025-02-22T17:06:18.145Z [INFO]: Decoded Token: {"id":"67ba03d43631bbf33a6f0ed6","name":"test2","email":"test2@gmail.com","iat":1740243943,"exp":1740247543}
+2025-02-22T17:06:18.148Z [INFO]: User Authenticated: test2@gmail.com
+2025-02-22T17:06:18.156Z [INFO]: User Found: test2@gmail.com
+2025-02-23T02:14:52.046Z [INFO]: Registration Attempt: test2@gmail.com
+2025-02-23T02:14:52.052Z [WARN]: Validation Failed: Name should only contain letters and spaces.
+2025-02-23T02:15:13.670Z [INFO]: Registration Attempt: test2@gmail.com
+2025-02-23T02:15:13.672Z [WARN]: Validation Failed: Password must contain at least one letter, one number, and one special character.
+2025-02-23T02:15:34.185Z [INFO]: Registration Attempt: test2@gmail.com
+2025-02-23T02:15:34.227Z [WARN]: Registration Failed: Email already exists (test2@gmail.com)
+2025-02-23T02:17:29.711Z [INFO]: Registration Attempt: test2@gmail.com
+2025-02-23T02:17:29.725Z [WARN]: Registration Failed: Email already exists (test2@gmail.com)
+2025-02-23T02:17:51.496Z [INFO]: Registration Attempt: test2@gmail.com
+2025-02-23T02:17:51.503Z [WARN]: Registration Failed: Email already exists (test2@gmail.com)
+2025-02-23T02:18:02.011Z [INFO]: Registration Attempt: test2@gmail.com
+2025-02-23T02:18:02.022Z [WARN]: Registration Failed: Email already exists (test2@gmail.com)
+2025-02-23T02:18:18.751Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T02:18:19.015Z [INFO]: Registration Successful: test22@gmail.com
+2025-02-23T02:19:33.494Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T02:19:34.192Z [INFO]: Successful Login: test22@gmail.com
+2025-02-23T06:36:35.985Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T06:36:36.644Z [INFO]: Successful Login: test22@gmail.com
+2025-02-23T06:37:42.145Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmE4NTZiMmIyYzkxYTA1NjkwYzhlOCIsIm5hbWUiOiJ0ZXN0IGFnYWluIiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMjkyNTk2LCJleHAiOjE3NDAyOTYxOTZ9.Kqp-80GE5hV4Xj8i5JWcDT-Wyuhe603NOAjtAsucDOY
+2025-02-23T06:37:42.151Z [INFO]: Decoded Token: {"id":"67ba856b2b2c91a05690c8e8","name":"test again","email":"test22@gmail.com","iat":1740292596,"exp":1740296196}
+2025-02-23T06:37:42.157Z [INFO]: User Authenticated: test22@gmail.com
+2025-02-23T06:37:42.161Z [INFO]: User Found.
+2025-02-23T07:13:06.742Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:13:06.770Z [WARN]: Registration Failed: Email already exists (test22@gmail.com)
+2025-02-23T07:13:39.364Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:13:39.371Z [WARN]: Registration Failed: Email already exists (test22@gmail.com)
+2025-02-23T07:17:15.689Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:17:15.960Z [INFO]: Registration Successful: test22@gmail.com
+2025-02-23T07:19:53.943Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T07:19:54.908Z [INFO]: Successful Login: test22@gmail.com
+2025-02-23T07:20:38.064Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFjYjdiOWZlZjU1YTk2NzcwNmVkNyIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMjk1MTk0LCJleHAiOjE3NDAyOTg3OTR9.VyGEm-T0U7uVyFNydT5WLBG38wSLnZM5iVks7-JjcU8
+2025-02-23T07:20:38.068Z [INFO]: Decoded Token: {"id":"67bacb7b9fef55a967706ed7","name":"test","email":"test22@gmail.com","iat":1740295194,"exp":1740298794}
+2025-02-23T07:20:38.076Z [INFO]: User Authenticated: test22@gmail.com
+2025-02-23T07:20:38.104Z [INFO]: User Updated: test22@gmail.com
+2025-02-23T07:26:58.275Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFjYjdiOWZlZjU1YTk2NzcwNmVkNyIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMjk1MTk0LCJleHAiOjE3NDAyOTg3OTR9.VyGEm-T0U7uVyFNydT5WLBG38wSLnZM5iVks7-JjcU8
+2025-02-23T07:26:58.281Z [INFO]: Decoded Token: {"id":"67bacb7b9fef55a967706ed7","name":"test","email":"test22@gmail.com","iat":1740295194,"exp":1740298794}
+2025-02-23T07:26:58.291Z [INFO]: User Authenticated: test22@gmail.com
+2025-02-23T07:26:58.308Z [INFO]: User Deleted: test22@gmail.com
+2025-02-23T07:35:31.110Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:35:31.113Z [WARN]: Validation Failed: Name should only contain letters and spaces.
+2025-02-23T07:35:58.243Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:35:58.246Z [WARN]: Validation Failed: "name" with value "test2" fails to match the required pattern: /^[A-Za-z\s]+$/
+2025-02-23T07:39:53.948Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:39:53.951Z [WARN]: Validation Failed: Name should only contain letters and spaces.
+2025-02-23T07:41:45.323Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:41:45.326Z [WARN]: Validation Failed: Name should only contain letters and spaces.
+2025-02-23T07:42:18.254Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:42:18.256Z [WARN]: Validation Failed: Name should only contain letters and spaces.
+2025-02-23T07:42:19.826Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:42:19.827Z [WARN]: Validation Failed: Name should only contain letters and spaces.
+2025-02-23T07:48:44.845Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T07:48:44.847Z [WARN]: Validation Failed: Name should only contain letters and spaces.
+2025-02-23T07:57:48.354Z [WARN]: Joi Validation Failed: Please enter a valid email address.
+2025-02-23T08:22:43.887Z [WARN]: Joi Validation Failed: name is required
+2025-02-23T08:23:05.111Z [WARN]: Joi Validation Failed: "password" is required
+2025-02-23T08:23:25.599Z [WARN]: Joi Validation Failed: "password" is required
+2025-02-23T08:37:40.846Z [WARN]: Joi Validation Failed: "password" is required
+2025-02-23T08:41:14.466Z [WARN]: Joi Validation Failed: "password" is required
+2025-02-23T08:41:32.981Z [WARN]: Joi Validation Failed: Password must contain at least one letter, one number, and one special character.
+2025-02-23T08:41:47.971Z [WARN]: Joi Validation Failed: "name" is required
+2025-02-23T08:41:55.555Z [WARN]: Joi Validation Failed: Name should only contain letters and spaces.
+2025-02-23T08:42:06.374Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T08:42:06.679Z [INFO]: Registration Successful: test22@gmail.com
+2025-02-23T08:42:19.225Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T08:42:19.515Z [INFO]: Successful Login: test22@gmail.com
+2025-02-23T08:42:25.040Z [WARN]: Joi Validation Failed: "email" is required
+2025-02-23T08:42:32.708Z [WARN]: Joi Validation Failed: Please enter a valid email address.
+2025-02-23T08:42:38.442Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T08:42:38.753Z [INFO]: Successful Login: test22@gmail.com
+2025-02-23T08:43:00.017Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFkZjVlYTRlODRjZGU3ZDM3NmQ0OCIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMzAwMTU4LCJleHAiOjE3NDAzMDM3NTh9.asWL3KYlqrH0Xk2I-eG2aGBwyL6rb2cxzjx0UrRFFOc
+2025-02-23T08:43:00.019Z [INFO]: Decoded Token: {"id":"67badf5ea4e84cde7d376d48","name":"test","email":"test22@gmail.com","iat":1740300158,"exp":1740303758}
+2025-02-23T08:43:00.024Z [INFO]: User Authenticated: test22@gmail.com
+2025-02-23T08:43:00.029Z [INFO]: User Found.
+2025-02-23T08:43:34.492Z [WARN]: Joi Validation Failed: "value" must be of type object
+2025-02-23T08:43:43.030Z [WARN]: Joi Validation Failed: "email" is required
+2025-02-23T08:44:13.129Z [WARN]: Joi Validation Failed: "value" must be of type object
+2025-02-23T08:44:18.510Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFkZjVlYTRlODRjZGU3ZDM3NmQ0OCIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMzAwMTU4LCJleHAiOjE3NDAzMDM3NTh9.asWL3KYlqrH0Xk2I-eG2aGBwyL6rb2cxzjx0UrRFFOc
+2025-02-23T08:44:18.512Z [INFO]: Decoded Token: {"id":"67badf5ea4e84cde7d376d48","name":"test","email":"test22@gmail.com","iat":1740300158,"exp":1740303758}
+2025-02-23T08:44:18.517Z [INFO]: User Authenticated: test22@gmail.com
+2025-02-23T08:44:18.519Z [ERROR]: Update Error: value is not defined
+2025-02-23T08:47:34.725Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFkZjVlYTRlODRjZGU3ZDM3NmQ0OCIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMzAwMTU4LCJleHAiOjE3NDAzMDM3NTh9.asWL3KYlqrH0Xk2I-eG2aGBwyL6rb2cxzjx0UrRFFOc
+2025-02-23T08:47:34.733Z [INFO]: Decoded Token: {"id":"67badf5ea4e84cde7d376d48","name":"test","email":"test22@gmail.com","iat":1740300158,"exp":1740303758}
+2025-02-23T08:47:34.739Z [INFO]: User Authenticated: test22@gmail.com
+2025-02-23T08:47:34.752Z [INFO]: User Updated: test22@gmail.com
+2025-02-23T08:47:45.449Z [WARN]: Joi Validation Failed: Name should only contain letters and spaces.
+2025-02-23T08:48:02.819Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFkZjVlYTRlODRjZGU3ZDM3NmQ0OCIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMzAwMTU4LCJleHAiOjE3NDAzMDM3NTh9.asWL3KYlqrH0Xk2I-eG2aGBwyL6rb2cxzjx0UrRFFOc
+2025-02-23T08:48:02.821Z [INFO]: Decoded Token: {"id":"67badf5ea4e84cde7d376d48","name":"test","email":"test22@gmail.com","iat":1740300158,"exp":1740303758}
+2025-02-23T08:48:02.823Z [INFO]: User Authenticated: test22@gmail.com
+2025-02-23T08:48:02.827Z [INFO]: User Updated: test@gmail.com
+2025-02-23T08:48:14.119Z [WARN]: Joi Validation Failed: Please enter a valid email address.
+2025-02-23T08:48:22.502Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFkZjVlYTRlODRjZGU3ZDM3NmQ0OCIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMzAwMTU4LCJleHAiOjE3NDAzMDM3NTh9.asWL3KYlqrH0Xk2I-eG2aGBwyL6rb2cxzjx0UrRFFOc
+2025-02-23T08:48:22.504Z [INFO]: Decoded Token: {"id":"67badf5ea4e84cde7d376d48","name":"test","email":"test22@gmail.com","iat":1740300158,"exp":1740303758}
+2025-02-23T08:48:22.507Z [INFO]: User Authenticated: test@gmail.com
+2025-02-23T08:48:22.510Z [INFO]: User Updated: test@gmail.com
+2025-02-23T08:48:41.055Z [WARN]: Joi Validation Failed: "value" must be of type object
+2025-02-23T08:48:58.619Z [WARN]: Joi Validation Failed: "value" must be of type object
+2025-02-23T08:49:16.789Z [WARN]: Joi Validation Failed: "value" must be of type object
+2025-02-23T08:49:46.742Z [WARN]: Joi Validation Failed: "value" must be of type object
+2025-02-23T08:50:15.317Z [WARN]: Joi Validation Failed: "value" must be of type object
+2025-02-23T08:51:45.769Z [INFO]: Extracted Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YmFkZjVlYTRlODRjZGU3ZDM3NmQ0OCIsIm5hbWUiOiJ0ZXN0IiwiZW1haWwiOiJ0ZXN0MjJAZ21haWwuY29tIiwiaWF0IjoxNzQwMzAwMTU4LCJleHAiOjE3NDAzMDM3NTh9.asWL3KYlqrH0Xk2I-eG2aGBwyL6rb2cxzjx0UrRFFOc
+2025-02-23T08:51:45.773Z [INFO]: Decoded Token: {"id":"67badf5ea4e84cde7d376d48","name":"test","email":"test22@gmail.com","iat":1740300158,"exp":1740303758}
+2025-02-23T08:51:45.778Z [INFO]: User Authenticated: test@gmail.com
+2025-02-23T08:51:45.783Z [INFO]: User Deleted: test@gmail.com
+2025-02-23T08:53:00.178Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T08:53:00.184Z [WARN]: Failed Login: User not found (test22@gmail.com)
+2025-02-23T08:53:06.671Z [INFO]: Registration Attempt: test22@gmail.com
+2025-02-23T08:53:06.954Z [INFO]: Registration Successful: test22@gmail.com
+2025-02-23T08:53:10.913Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T08:53:11.213Z [INFO]: Successful Login: test22@gmail.com
+2025-02-23T08:53:12.334Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T08:53:12.619Z [INFO]: Successful Login: test22@gmail.com
+2025-02-23T08:53:13.772Z [INFO]: Login Attempt for Email: test22@gmail.com
+2025-02-23T08:53:14.078Z [INFO]: Successful Login: test22@gmail.com

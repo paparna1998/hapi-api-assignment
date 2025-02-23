@@ -1,0 +1,22 @@
+version: '3'
+services:
+  api:
+    build: .
+    ports:
+      - "5002:5002"
+    depends_on:
+      - mongo
+    env_file:
+      - .env
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo_nwt
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
