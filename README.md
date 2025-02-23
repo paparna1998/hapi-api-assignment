@@ -11,15 +11,15 @@ The API follows MVC architecture and includes rate limiting, logging, and error 
 ---
 
 # Technologies Used
-Node.js - Backend Runtime
-Hapi.js - API Framework
-MongoDB - Database
-Mongoose - MongoDB ODM
-JWT - Authentication
-Joi - Input Validation
-Boom - Error Handling
-Winston - Logging
-Docker - Containerization
+Node.js - Backend Runtime,
+Hapi.js - API Framework,
+MongoDB - Database,
+Mongoose - MongoDB ODM,
+JWT - Authentication,
+Joi - Input Validation,
+Boom - Error Handling,
+Winston - Logging,
+Docker - Containerization,
 
 ---
 
